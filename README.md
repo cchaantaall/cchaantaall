@@ -4,6 +4,8 @@
  <img alt="My header" src="https://i1.sndcdn.com/visuals-000008416526-cC7W6A-t2480x520.jpg">
 </picture>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d426a9aa497d7fa51e32ef?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)
+
 
 ---
 
